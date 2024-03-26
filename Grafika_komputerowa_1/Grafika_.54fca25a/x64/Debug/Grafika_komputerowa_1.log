@@ -1,0 +1,5 @@
+﻿  tekstury.cpp
+D:\Dokumenty\Grafika komputerowa\Grafika_komputerowa_1\tekstury.cpp(136,21): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+D:\Dokumenty\Grafika komputerowa\Grafika_komputerowa_1\tekstury.cpp(137,21): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+D:\Dokumenty\Grafika komputerowa\Grafika_komputerowa_1\tekstury.cpp(138,21): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+  Grafika_komputerowa_1.vcxproj -> D:\Dokumenty\Grafika komputerowa\Grafika_komputerowa_1\x64\Debug\Grafika_komputerowa_1.exe
